@@ -1,0 +1,28 @@
+name: bear
+favicon: null
+layout_spectrum: 0.6147550528403372
+typography_spectrum: 0.504464331548661
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.08797487802803516
+  lightness: 0.5601744493469596
+  saturation: 0.9269756933208555
+  rhythmicContrast: 0.7052165342029184
+purpose: []
